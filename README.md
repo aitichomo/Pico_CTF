@@ -1,6 +1,6 @@
 # Pico_CTF
 
-Investigative Reversing 1
 
-Pico_CTF  solution script  
+
+Pico_CTF Investigative Reversing 1 solution script  python.
  
